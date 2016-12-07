@@ -22,11 +22,12 @@ namespace Cesi.MF.yeux
     {
         public double Xo = 0;
         public double Yo = 0;
+        private const double cercleDistance = 75;
+
         public MainWindow()
         {
             InitializeComponent();
-            this.monCanvas.AddHandler(MouseMoveEvent, new MouseEventHandler(monCanvas_MouseMove));
-            
+            //this.monCanvas.AddHandler(MouseMoveEvent, new MouseEventHandler(monCanvas_MouseMove));
             Xo = monCanvas.Width / 2;
             Yo = monCanvas.Height / 2;
         }
@@ -44,9 +45,18 @@ namespace Cesi.MF.yeux
             line.X2 = e.GetPosition(this).X;
             line.Y2 = e.GetPosition(this).Y;
 
-            // affiche sur l'élément paintSurface (canvas) la ligne
+            double dx = line.X2 - line.X1;
+            double dy = line.Y2 - line.Y1;
+
+            double angle= Math.Atan2(dy, dx);
+            double x = Xo + cercleDistance * Math.Cos(angle);
+            double y = Yo + cercleDistance * Math.Sin(angle);
+
             monCanvas.Children.Add(line);
 
+            Canvas.SetLeft(monElipse, x - (monElipse.Width/2) );
+            Canvas.SetTop(monElipse,  y - (monElipse.Height / 2));
+            
         }
     }
 }
