@@ -1,0 +1,14 @@
+c:\users\fonta\onedrive\documents\visual studio 2015\Projects\Cesi.MF.yeux\Cesi.MF.yeux\bin\Debug\Cesi.MF.yeux.exe.config
+C:\Users\fonta\OneDrive\Documents\Visual Studio 2015\Projects\Cesi.MF.yeux\Cesi.MF.yeux\bin\Debug\Cesi.MF.yeux.exe
+C:\Users\fonta\OneDrive\Documents\Visual Studio 2015\Projects\Cesi.MF.yeux\Cesi.MF.yeux\bin\Debug\Cesi.MF.yeux.pdb
+C:\Users\fonta\OneDrive\Documents\Visual Studio 2015\Projects\Cesi.MF.yeux\Cesi.MF.yeux\obj\Debug\Cesi.MF.yeux.csprojResolveAssemblyReference.cache
+C:\Users\fonta\OneDrive\Documents\Visual Studio 2015\Projects\Cesi.MF.yeux\Cesi.MF.yeux\obj\Debug\MainWindow.g.cs
+C:\Users\fonta\OneDrive\Documents\Visual Studio 2015\Projects\Cesi.MF.yeux\Cesi.MF.yeux\obj\Debug\App.g.cs
+C:\Users\fonta\OneDrive\Documents\Visual Studio 2015\Projects\Cesi.MF.yeux\Cesi.MF.yeux\obj\Debug\Cesi.MF.yeux_MarkupCompile.cache
+C:\Users\fonta\OneDrive\Documents\Visual Studio 2015\Projects\Cesi.MF.yeux\Cesi.MF.yeux\obj\Debug\Cesi.MF.yeux_MarkupCompile.lref
+C:\Users\fonta\OneDrive\Documents\Visual Studio 2015\Projects\Cesi.MF.yeux\Cesi.MF.yeux\obj\Debug\MainWindow.baml
+C:\Users\fonta\OneDrive\Documents\Visual Studio 2015\Projects\Cesi.MF.yeux\Cesi.MF.yeux\obj\Debug\Cesi.MF.yeux.g.resources
+C:\Users\fonta\OneDrive\Documents\Visual Studio 2015\Projects\Cesi.MF.yeux\Cesi.MF.yeux\obj\Debug\Cesi.MF.yeux.Properties.Resources.resources
+C:\Users\fonta\OneDrive\Documents\Visual Studio 2015\Projects\Cesi.MF.yeux\Cesi.MF.yeux\obj\Debug\Cesi.MF.yeux.csproj.GenerateResource.Cache
+C:\Users\fonta\OneDrive\Documents\Visual Studio 2015\Projects\Cesi.MF.yeux\Cesi.MF.yeux\obj\Debug\Cesi.MF.yeux.exe
+C:\Users\fonta\OneDrive\Documents\Visual Studio 2015\Projects\Cesi.MF.yeux\Cesi.MF.yeux\obj\Debug\Cesi.MF.yeux.pdb
